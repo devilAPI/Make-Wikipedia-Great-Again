@@ -4,12 +4,6 @@ Wikipedia, but it looks good...
 ## What is this?
 This is a proxy Software, for wikipedia. It applies custom Style Sheets, so wikipedia looks good!
  
-## Is this secure?
-Yes it is! We wont spy through your requests! You can look in the code!
-
-## Known Bugs
-- Articles from the Homepage (except "From today's featured article") dont load or are broken.
-
 ## Using MWGA
 
 ### Selfhosting using Vercel (ZEIT.CO) (not recommended)
@@ -21,7 +15,7 @@ Yes it is! We wont spy through your requests! You can look in the code!
 - You are done! Press on "Visit" and put "/wiki" after your Link!
 - Enjoy your copy of MWGA!
 
-### Option 2: Using our prebuilt Version of MWGA
+### Option 2: Using our prebuilt Version of MWGA (offline)
 - Open our prebuilt Version in your Browser!
 - https://make-wikipedia-great-again.vercel.app/wiki
 
