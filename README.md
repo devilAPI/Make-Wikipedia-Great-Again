@@ -20,9 +20,6 @@ This is a proxy Software, for wikipedia. It applies custom Style Sheets, so wiki
 - https://make-wikipedia-great-again.vercel.app/wiki
 
 ## Credits
-The CSS is from 
+CSS: https://github.com/udscbt-wsx/udscbt-userstyles/blob/master/Wikipedia/
 
-https://github.com/udscbt-wsx/udscbt-userstyles/blob/master/Wikipedia/
-
-But i fixed it, it was broken and didnt completely work
 
